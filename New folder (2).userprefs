@@ -1,0 +1,23 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\ControlJucator.cs">
+    <Files>
+      <File FileName="Assets\colectare.cs" Line="1" Column="1" />
+      <File FileName="Assets\regenerareLevel3.cs" Line="1" Column="1" />
+      <File FileName="Assets\meniu_nivele.cs" Line="1" Column="1" />
+      <File FileName="Assets\meniu.cs" Line="1" Column="1" />
+      <File FileName="Assets\pauza.cs" Line="1" Column="1" />
+      <File FileName="Assets\regenerareLevel2.cs" Line="1" Column="1" />
+      <File FileName="Assets\Standard Assets\Scripts\Camera Scripts\SmoothFollow.js" Line="1" Column="1" />
+      <File FileName="Assets\regenerare.cs" Line="1" Column="1" />
+      <File FileName="Assets\LM.cs" Line="1" Column="1" />
+      <File FileName="Assets\IesireInMeniu.cs" Line="1" Column="1" />
+      <File FileName="Assets\regenerare_meniu.cs" Line="1" Column="1" />
+      <File FileName="Assets\ControlJucator.cs" Line="16" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
